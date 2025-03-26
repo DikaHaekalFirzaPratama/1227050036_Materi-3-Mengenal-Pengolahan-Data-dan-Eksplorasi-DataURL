@@ -1,0 +1,12 @@
+Dataset: Titanic - Machine Learning from Disaster
+Jenis Data:
+
+Nominal: Kolom seperti 'Sex' (Jenis Kelamin) dan 'Embarked' (Pelabuhan Embarkasi) adalah data nominal karena kategori-kategorinya tidak memiliki urutan yang inheren.
+
+Ordinal: Kolom 'Pclass' (Kelas Penumpang) adalah data ordinal karena memiliki tingkatan, yaitu kelas 1, 2, dan 3.
+
+Interval: Tidak ada contoh data interval yang jelas dalam dataset ini.
+
+Rasio: Kolom 'Age' (Usia) dan 'Fare' (Tarif) adalah data rasio karena memiliki nol absolut dan perbandingan rasio bermakna.
+
+Tautan Dataset: Titanic - Machine Learning from Disaster (https://www.kaggle.com/competitions/titanic)
